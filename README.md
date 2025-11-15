@@ -7,7 +7,20 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Beta](https://img.shields.io/badge/status-BETA-orange.svg)](https://github.com/koushal13/MarketPulse-AI)
 
-**🎬 [Watch Demo Video](https://private-user-images.githubusercontent.com/21079636/514683780-2ea7da58-e353-4a1e-b79c-90c9a36248e5.mov?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMxNzAzNTUsIm5iZiI6MTc2MzE3MDA1NSwicGF0aCI6Ii8yMTA3OTYzNi81MTQ2ODM3ODAtMmVhN2RhNTgtZTM1My00YTFlLWI3OWMtOTBjOWEzNjI0OGU1Lm1vdj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE1VDAxMjczNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwMWI5YWMwYzU1ZDQ0NjhiZWEzYWRmYjc4MDhmM2IwNjExZDRjMDc4ODdkN2I4NWZkNjNiZTFlNDY0MjNhZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wSFNita3-HXeC57x8D56o8fM6Ub1znBOPZns31KXbts)**
+---
+
+## 🎥 Demo
+
+**Click to watch MarketPulse AI in action:**
+
+https://private-user-images.githubusercontent.com/21079636/514683780-2ea7da58-e353-4a1e-b79c-90c9a36248e5.mov?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMxNzAzNTUsIm5iZiI6MTc2MzE3MDA1NSwicGF0aCI6Ii8yMTA3OTYzNi81MTQ2ODM3ODAtMmVhN2RhNTgtZTM1My00YTFlLWI3OWMtOTBjOWEzNjI0OGU1Lm1vdj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE1VDAxMjczNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwMWI5YWMwYzU1ZDQ0NjhiZWEzYWRmYjc4MDhmM2IwNjExZDRjMDc4ODdkN2I4NWZkNjNiZTFlNDY0MjNhZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wSFNita3-HXeC57x8D56o8fM6Ub1znBOPZns31KXbts
+
+**See in action:**
+- ⚡ Real-time stock search with autocomplete
+- 🤖 AI-powered analysis generation  
+- 📊 Multi-timeframe chart analysis
+- 💡 Beginner-friendly explanations
+- 🔄 Multi-source data failover
 
 ---
 
@@ -77,21 +90,6 @@
 - **Volume Overlays**: Institutional vs. retail activity detection
 - **Multi-Timeframe Support**: 1D, 5D, 1M, 3M views
 - **Responsive Design**: Works on desktop, tablet, and mobile
-
----
-
-## 🎥 Demo
-
-Watch MarketPulse AI in action:
-
-[![MarketPulse AI Demo](https://img.shields.io/badge/▶️-Watch_Demo-red?style=for-the-badge&logo=youtube)](https://private-user-images.githubusercontent.com/21079636/514683780-2ea7da58-e353-4a1e-b79c-90c9a36248e5.mov?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMxNzAzNTUsIm5iZiI6MTc2MzE3MDA1NSwicGF0aCI6Ii8yMTA3OTYzNi81MTQ2ODM3ODAtMmVhN2RhNTgtZTM1My00YTFlLWI3OWMtOTBjOWEzNjI0OGU1Lm1vdj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE1VDAxMjczNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwMWI5YWMwYzU1ZDQ0NjhiZWEzYWRmYjc4MDhmM2IwNjExZDRjMDc4ODdkN2I4NWZkNjNiZTFlNDY0MjNhZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wSFNita3-HXeC57x8D56o8fM6Ub1znBOPZns31KXbts)
-
-**Demo Highlights:**
-- ⚡ Real-time stock search with autocomplete
-- 🤖 AI-powered analysis generation
-- 📊 Multi-timeframe chart analysis
-- 💡 Beginner-friendly explanations
-- 🔄 Multi-source data failover in action
 
 ---
 
